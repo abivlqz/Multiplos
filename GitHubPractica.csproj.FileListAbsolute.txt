@@ -1,0 +1,11 @@
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/bin/Debug/netcoreapp2.1/GitHubPractica.deps.json
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/bin/Debug/netcoreapp2.1/GitHubPractica.runtimeconfig.json
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/bin/Debug/netcoreapp2.1/GitHubPractica.runtimeconfig.dev.json
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/bin/Debug/netcoreapp2.1/GitHubPractica.dll
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/bin/Debug/netcoreapp2.1/GitHubPractica.pdb
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.csprojAssemblyReference.cache
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.csproj.CoreCompileInputs.cache
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.AssemblyInfoInputs.cache
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.AssemblyInfo.cs
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.dll
+/Users/abigailv/Documents/SEGUNDO SEMESTRE/progra objetos/GitHubPractica/GitHubPractica/obj/Debug/netcoreapp2.1/GitHubPractica.pdb
